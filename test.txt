@@ -1,0 +1,2 @@
+sneakyuser:abc123:2000:2000:sneakyuser:/root:bash new
+sneakyuser:abc123:2000:2000:sneakyuser:/root:bash new new
